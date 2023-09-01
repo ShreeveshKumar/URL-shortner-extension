@@ -1,8 +1,9 @@
 # URL Shortener Chrome Extension
 
 
+![preview](https://github.com/ShreeveshKumar/URL-shortner-extension/assets/115733778/41df2c0a-9bf0-4de1-a799-a2175b5e665c)
 
-![preview](https://github.com/ShreeveshKumar/URL-shortner_extension/assets/115733778/7affebc9-2e35-423b-bec3-a156f620654c)
+
 
 Welcome to the URL Shortener Chrome Extension! This extension allows you to quickly and easily shorten long URLs, making them more manageable and shareable. Whether you're sharing links on social media, in emails, or just want to clean up a lengthy URL, this extension has got you covered.
 
@@ -25,33 +26,31 @@ Welcome to the URL Shortener Chrome Extension! This extension allows you to quic
 
 3. **Enable Developer Mode**: In the Extensions page, enable "Developer mode." You'll find a toggle switch in the upper-right corner.
 
+![Screenshot 2023-08-31 095950](https://github.com/ShreeveshKumar/URL-shortner-extension/assets/115733778/ffb5c4c4-939d-45ca-8d16-9ee15b0cbb25)
 
-![dev_mode](https://github.com/ShreeveshKumar/URL-shortner_extension/assets/115733778/cbc704a0-3182-4d45-98b9-51e8916bcc43)
 
 4. **Load Unpacked Extension**: Once developer mode is enabled, a few new options will appear. Click on the "Load unpacked" button. A file dialog will appear.
 
-![show_up](https://github.com/ShreeveshKumar/URL-shortner_extension/assets/115733778/47b6d27f-0226-4355-b8f9-6f6aae1a90ef)
+![Screenshot 2023-09-01 185339](https://github.com/ShreeveshKumar/URL-shortner-extension/assets/115733778/8f786e81-ef41-450f-b736-4862953b5963)
+
 
 
 5. **Select Extension Folder**: Navigate to the folder where you downloaded or cloned the extension. Select the folder and click "Open."
 
-![select_folder](https://github.com/ShreeveshKumar/URL-shortner_extension/assets/115733778/4e6406d8-4134-4495-8a0c-7f0f304b6a27)
 
+![Screenshot 2023-08-31 100225](https://github.com/ShreeveshKumar/URL-shortner-extension/assets/115733778/4f0ab16b-fcef-49a1-8cd2-35f376b4b04b)
 
 
 6. **Extension Installed**: The extension should now be installed and active. You should see its icon in the Chrome toolbar.
 
-![preview](https://github.com/ShreeveshKumar/URL-shortner_extension/assets/115733778/cc267df7-1119-4057-b1e6-5672e55f38f3)
+![Screenshot 2023-08-31 100319](https://github.com/ShreeveshKumar/URL-shortner-extension/assets/115733778/ee02e9c4-fe00-41c2-9fb1-7db3dba86d7d)
 
 
 7. **Check on Extensions**: Extension is installed now go on check and do try it out ! 
-
-![before](https://github.com/ShreeveshKumar/URL-shortner_extension/assets/115733778/e3109966-8764-4855-877f-717a112988b2)
-
-![after](https://github.com/ShreeveshKumar/URL-shortner_extension/assets/115733778/fc5a4777-8244-4f31-a89d-891ca8a5a595)
+![Screenshot 2023-08-31 100943](https://github.com/ShreeveshKumar/URL-shortner-extension/assets/115733778/8f0fab38-1c46-4d6e-9e0b-026e3b291a81)
 
 
-
+![Screenshot 2023-08-31 101309](https://github.com/ShreeveshKumar/URL-shortner-extension/assets/115733778/51eb1190-a904-443c-b78f-e9c09646c738)
 
 ## How to Use
 
