@@ -1,5 +1,5 @@
 # URL Shortener Chrome Extension
-note:- this project won't work without api key to get api key you need to log inat  url shortner api at rapidapi.com 
+note:- this project won't work without api key to get api key you need to log in at  url shortener api at rapidapi.com 
 
 ![preview](https://github.com/ShreeveshKumar/URL-shortner-extension/assets/115733778/41df2c0a-9bf0-4de1-a799-a2175b5e665c)
 
